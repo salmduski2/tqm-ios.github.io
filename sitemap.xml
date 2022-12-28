@@ -1,748 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-   <loc>https://tqm-mos.github.io/index.html</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/favicon.ico</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/favicon.ico</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/AppCake-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/css/Style.css</loc>
-   <lastmod>2022-10-28</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/yalu102-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/framework7.bundle.min.js</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver531-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/routes.js</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/EtasonJB-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/sign/qrcode.min.js</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/HdoPlay-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/sign/css/sign.css</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/h3lix-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/sign/css/app.css</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Messenger2-TQM.ipa</loc>
+   <lastmod>2022-12-08</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/sign/index.js</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/JBRemover-TQM.ipa</loc>
+   <lastmod>2022-11-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/Tab/js/sign/vue.min.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/js/sign/axios.min.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/js/app.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/Sign.html</loc>
-   <lastmod>2022-12-20</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/IPA.html</loc>
-   <lastmod>2022-12-20</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/home.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/search.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/hd.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/pencil.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/backup/home.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/backup/search.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/backup/pencil.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/backup/square.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/Tab/nav/square.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/ads.js</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/adope.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/messlite.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/intolivepro.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/saigon.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/magicsign.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/yt.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/zsign.png</loc>
-   <lastmod>2022-11-09</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/cert.png</loc>
-   <lastmod>2022-12-17</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/hayday.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/icon.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/lol.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/templerun.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/ta.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/th0r.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/gtasan.png</loc>
-   <lastmod>2022-10-27</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/inside.png</loc>
-   <lastmod>2022-10-10</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/fb82.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/lau.png</loc>
+   <loc>https://tqm-ios.github.io/ipa/GBox-TQM.ipa</loc>
    <lastmod>2022-12-16</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/mail.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver612-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/candy.png</loc>
-   <lastmod>2022-10-10</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Odyssey-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/8ballpool.png</loc>
-   <lastmod>2022-10-10</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver600-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/gettingoverit.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Zsign-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/spotifi.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Zing-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/ody.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/cydia.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/lite.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/shadowfight2.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/filza.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/shadowfight3.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/zalo.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/lr.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/banner.png</loc>
-   <lastmod>2022-10-09</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/momo.png</loc>
-   <lastmod>2022-09-27</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/etason.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/soda.png</loc>
-   <lastmod>2022-09-24</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/trollstore.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/hdo.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/zebra.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/kinesmaster.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/fb.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/Meridian.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/esign.png</loc>
+   <loc>https://tqm-ios.github.io/ipa/Esign-TQM.ipa</loc>
    <lastmod>2022-12-16</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/rootless.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Pangu-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/electra.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/FaceLite-TQM.ipa</loc>
+   <lastmod>2022-11-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/home.png</loc>
-   <lastmod>2022-10-12</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Filza-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/hungryshark.png</loc>
-   <lastmod>2022-10-10</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver702-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/playdiary.png</loc>
-   <lastmod>2022-10-10</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/phoenix-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/Installer.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/SaiGonJB-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/ppsspp.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Meridian-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/minecraft.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Messenger3.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/pvz.png</loc>
-   <lastmod>2022-10-10</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Cheyote-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/appstore.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver800-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/gbox.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/PlayDiary-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/h3lix.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/pangu.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/ig.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/freefire.png</loc>
-   <lastmod>2022-09-28</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/tiktok.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/kodi.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/incredibox.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/sileo.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/done.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/blizz.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/archero.png</loc>
-   <lastmod>2022-09-29</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/camera360.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/logo.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/chimera.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/twitter.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/pay.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/ulike.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/ScreenshotX.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/goblin.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/appcake.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/thor.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/pvz2.png</loc>
-   <lastmod>2022-08-06</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/mes.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/yalu102.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/unc0ver.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/thespike.png</loc>
-   <lastmod>2022-10-27</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/gta3.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/pic.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/gtavicecity.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/whatsapp.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/wechat.png</loc>
-   <lastmod>2022-10-12</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/clash.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/appsmanager.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/doubleH3lix.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/subwaysurfers.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/reddot.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/dls22.png</loc>
-   <lastmod>2022-10-10</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/cheyote.png</loc>
-   <lastmod>2022-09-18</lastmod>
-   <changefreq>weekly</changefreq>
-  </url>
-  <url>
-   <loc>https://tqm-mos.github.io/js/img/duty.png</loc>
+   <loc>https://tqm-ios.github.io/ipa/Scarlet-TQM.ipa</loc>
    <lastmod>2022-12-16</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/phoenix.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Filza15-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/freya.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/appstore-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/zing.png</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver801-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/js/img/scarlet.png</loc>
-   <lastmod>2022-12-16</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Messenger4.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/LICENSE.md</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Taurine-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/README.md</loc>
-   <lastmod>2022-10-05</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/ScreenshotX-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/sitemap.xml</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Messenger5.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/sitemap.sh</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/MagicSign-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/repo.xml</loc>
-   <lastmod>2022-09-18</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/instageram-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/config</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/FaceLite.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/pack/pack-7d02ab0dfa2a346947ad50bcee46843e55131ee7.idx</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Messenger6.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/objects/pack/pack-7d02ab0dfa2a346947ad50bcee46843e55131ee7.pack</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/appsmanager-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/HEAD</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/reddot-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/info/exclude</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/doubleH3lix-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/HEAD</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Blizzard-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/refs/heads/master</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/Rollectra11-TQM.ipa</loc>
+   <lastmod>2022-11-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/logs/refs/remotes/origin/HEAD</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/chimera-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/description</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver802-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/commit-msg.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/ipa/unc0ver620-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-rebase.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/LICENSE.md</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-commit.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/README.md</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/applypatch-msg.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/sitemap.xml</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/fsmonitor-watchman.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/sitemap.sh</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-receive.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/config</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/prepare-commit-msg.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/objects/pack/pack-840aba5eb6d242fa550cbd323afde14c8bcc020f.pack</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/post-update.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/objects/pack/pack-840aba5eb6d242fa550cbd323afde14c8bcc020f.idx</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-applypatch.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/HEAD</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/pre-push.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/info/exclude</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/hooks/update.sample</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/logs/HEAD</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/refs/heads/master</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/logs/refs/heads/master</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/refs/remotes/origin/HEAD</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/logs/refs/remotes/origin/HEAD</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/index</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/description</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
-   <loc>https://tqm-mos.github.io/.git/packed-refs</loc>
-   <lastmod>2022-12-20</lastmod>
+   <loc>https://tqm-ios.github.io/.git/hooks/commit-msg.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/pre-rebase.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/pre-commit.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/applypatch-msg.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/fsmonitor-watchman.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/pre-receive.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/prepare-commit-msg.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/post-update.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/pre-applypatch.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/pre-push.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/hooks/update.sample</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/refs/heads/master</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/refs/remotes/origin/HEAD</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/index</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/packed-refs</loc>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
  </urlset>
