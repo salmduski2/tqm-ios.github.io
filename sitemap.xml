@@ -16,6 +16,16 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/ipa/rootlessJB4-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/intolivepro-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/ipa/Th0r4-TQM.ipa</loc>
    <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
@@ -86,6 +96,16 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/ipa/Freya-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/PvZ-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/ipa/Zsign-TQM.ipa</loc>
    <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
@@ -132,6 +152,16 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/ipa/unc0ver702-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/messegen-TQM.ipa</loc>
+   <lastmod>2022-11-16</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/Electra-TQM.ipa</loc>
    <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -256,6 +286,16 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/ipa/ppsspp-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/MoMoTQM3.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/ipa/appsmanager-TQM.ipa</loc>
    <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
@@ -263,6 +303,16 @@
   <url>
    <loc>https://tqm-ios.github.io/ipa/reddot-TQM.ipa</loc>
    <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/MoMoTQM2.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/g0blin-TQM.ipa</loc>
+   <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -281,13 +331,28 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/ipa/MoMoTQM5.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/ipa/chimera-TQM.ipa</loc>
    <lastmod>2022-12-14</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/ipa/MoMoTQM4.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/ipa/unc0ver802-TQM.ipa</loc>
    <lastmod>2022-12-14</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/ipa/MoMoTQM6.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -301,13 +366,18 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/ipa/kinesmaster-TQM.ipa</loc>
+   <lastmod>2022-10-26</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/LICENSE.md</loc>
    <lastmod>2022-10-26</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ios.github.io/README.md</loc>
-   <lastmod>2022-10-26</lastmod>
+   <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -326,7 +396,17 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/92/93eeede043316a9d5b4829f0b918811efec74f</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/66/8d4f92cb338129b4e8fb429a1cbdbf1855c167</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/57/11c025cc3e391d472704b896470b53c20eb8b7</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -351,12 +431,32 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/32/96a9880f1bd7c0059db8575953a5c8aa252ebd</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/32/0acdd7da8bcdece9168a37d7017a79dc220b66</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/3c/b2f3dfda0c640cbc21d31755cdf2c6c8955eee</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/51/e82a6be7b0e3f52621c053f5dd0ca6a8d8e479</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/58/b10c6fabd5b13526d535acc0f5123a452e13ce</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/0e/eb2e008ae6b9bd0e86c3f94ea63b7d601ee40e</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -376,7 +476,17 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/ac/d08ac52678ac8123266d383c247b287dfdb3cd</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/ad/bc4e5a4a2ead20a38240084ed00fb208f04dbb</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/df/2b929ee84dc105e0e2b7c0b71a0dd1ac32d0dc</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -407,6 +517,11 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/eb/0b8a50e891bdb148c2ec1f2515a7750baf3f65</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/c9/60ee496b9a602303ad028d6bd86792ab7f1fdc</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -471,6 +586,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/8a/852ecb43d667cf506540db06965006c9bc52f4</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/88/4ab0fe2d673addaf863a984d041ab8c041c5bb</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -482,6 +602,21 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/09/05da1b00aa531bded0b2c637844e715c7cfdaf</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/5d/75dcdf803dae899b010152ad7abaaa19455ee4</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/65/678a6e7a38d619aa627b73eec8334e17928296</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/5e/2d685bac831c98a267d07c2f01efe051d4637c</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -526,6 +661,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/d2/737811144c77bdc660ef2b708f828502a01007</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/db/716c8612be4778c2f7dfd52fba33a91ff3a550</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -551,7 +691,17 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/e6/5d6575780a413232cf4ae6c65d48440a852ba5</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/e0/c893bd2624f78c192fa86b72aa940662170f45</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/2c/d33e93a4de66959574149b6a8dca88bc8fab6d</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -562,6 +712,11 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/48/f9e15cfe5ba0db93bd964c3dcbee1ed864336d</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/1e/e8d3b78966fca5d91402e02f1e50ad1ee18207</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
@@ -586,12 +741,22 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/1c/e0d2d78e6b0ffa874e911a864c4ab3439e8f0a</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/13/c2ef9aa234a4f2b60feba88600f114023fda25</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/14/75706cdd942a4aff5cc33b86044c25525ad1f7</loc>
+   <lastmod>2022-12-28</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/25/43fe2ddab38ff249d70d4a2f2d920912e07e65</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
   </url>
