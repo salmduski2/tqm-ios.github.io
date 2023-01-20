@@ -82,7 +82,7 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/ipa/XinaA15-TQM.ipa</loc>
-   <lastmod>2023-01-04</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -392,7 +392,7 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/sitemap.xml</loc>
-   <lastmod>2023-01-19</lastmod>
+   <lastmod>2023-01-20</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -572,7 +572,7 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/ac/c3e678d52cfcb40b934dd5484a0f5b4f38637d</loc>
-   <lastmod>2023-01-03</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -603,6 +603,11 @@
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/bb/c2ccb01b9b25a7666773b601d11245567cb8d0</loc>
    <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/d7/5c0750dda9a2f34a32378a23f5c300a9ef4cb1</loc>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -901,6 +906,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/2f/75ea4b20aa4168cdb15391825a7bc3a50ee5f5</loc>
+   <lastmod>2023-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/43/c484cfe1330ce1a3b10eabcaebd5a0e8c73477</loc>
    <lastmod>2023-01-16</lastmod>
    <changefreq>weekly</changefreq>
@@ -938,6 +948,11 @@
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/00/193dffd48415bccd036c605ff97ed1c4137002</loc>
    <lastmod>2023-01-05</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/00/aaa8573d648b2cbf03366cf223291f31906b8c</loc>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1028,6 +1043,11 @@
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/06/930c497152a75364aba2b7d568d773189a1510</loc>
    <lastmod>2023-01-01</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/6c/7c705eef960177fcac351e757cb19bc56b4f6a</loc>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1216,6 +1236,11 @@
    <changefreq>weekly</changefreq>
   </url>
   <url>
+   <loc>https://tqm-ios.github.io/.git/objects/c3/d1d376d69188c8261f97ad8984befab34eb80a</loc>
+   <lastmod>2023-01-19</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
    <loc>https://tqm-ios.github.io/.git/objects/c3/4e4e8ae405e79625a32fee4a85fc9cfbd04671</loc>
    <lastmod>2022-12-28</lastmod>
    <changefreq>weekly</changefreq>
@@ -1293,6 +1318,11 @@
   <url>
    <loc>https://tqm-ios.github.io/.git/objects/f1/6cb8931942494f5ad209b7e76f98820b5aa6e7</loc>
    <lastmod>2023-01-16</lastmod>
+   <changefreq>weekly</changefreq>
+  </url>
+  <url>
+   <loc>https://tqm-ios.github.io/.git/objects/e7/2bbd5c05982049fbae9114d35c93f6891a53af</loc>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1567,12 +1597,12 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/logs/HEAD</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/logs/refs/heads/master</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1582,7 +1612,7 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/logs/refs/remotes/origin/master</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1647,12 +1677,12 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/COMMIT_EDITMSG</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/refs/heads/master</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -1662,12 +1692,12 @@
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/refs/remotes/origin/master</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
    <loc>https://tqm-ios.github.io/.git/index</loc>
-   <lastmod>2023-01-17</lastmod>
+   <lastmod>2023-01-19</lastmod>
    <changefreq>weekly</changefreq>
   </url>
   <url>
