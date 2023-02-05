@@ -1294,7 +1294,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appName": "DLS23",
-            "appVersion": "10.060",
+            "appVersion": "10.110",
             "appImage": "https://tqm-ipa.github.io/js/img/dls23.png",
             "appPackage": "https://archive.org/download/dls-23-tqm/DLS23-TQM.ipa",
             "appDescription": "DLS23 Hack ios10 Trở nên | All Devices"
@@ -1368,6 +1368,16 @@
             "appImage": "https://tqm-ipa.github.io/js/img/shadow.png",
             "appPackage": "https://archive.org/download/shadow-hunter-tqm/ShadowHunter_TQM.ipa",
             "appDescription": "Shadow Hunter ios10 Trở nên | All Devices"
+        },
+
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appName": "Naruto",
+            "appVersion": "1.0b2",
+            "appImage": "https://tqm-ipa.github.io/js/img/naruto.png",
+            "appPackage": "https://archive.org/download/naruto-tqm/Naruto-TQM.ipa",
+            "appDescription": "Natuto ios10 Trở nên | All Devices"
         },
 
         {
